@@ -68,6 +68,8 @@ allprojects {
 		maven("https://maven.terraformersmc.com") { name = "TerraformersMC" }
 		maven("https://maven.ladysnake.org/releases") { name = "Ladysnake Libs" }
 		maven("https://maven.theillusivec4.top/") { name = "TheIllusiveC4" }
+		maven("https://maven.wispforest.io/releases") { name = "WispForest" }
+		maven("https://maven.su5ed.dev/releases") { name = "su5ed" }
 	}
 
 	dependencies {
